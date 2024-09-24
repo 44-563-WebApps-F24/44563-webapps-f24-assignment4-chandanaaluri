@@ -27,10 +27,14 @@
 table { border: dashed 3px;
     overflow: auto;
     border-collapse: separate;}
-table.collapsing { border: solid 3px;
+table.collapsing {
+     border: solid 3px;
     border-collapse: collapse;
-    outline: solid 2px lightcoral;}
-td, th {border: solid 1px;
+    outline: solid 2px azure;}
+td, th {
+    border: solid 1px;
     text-align: center;}
-tr {background-color:rgb(211, 134, 197) ;}
-tr:nth-child(even) {background-color: #e2e2e2;}
+tr {
+    background-color: #f0f0f0(211, 134, 197) ;}
+tr:nth-child(even) {
+    background-color: #e2e2e2;}
