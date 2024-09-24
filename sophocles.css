@@ -41,7 +41,7 @@ tr:nth-child(even) {
 
 
 h6:hover {
-    text-shadow: 3px 3px 8px indianred; 
+    text-shadow: 3px 3px 8px blueviolet; 
     border: 2px dashed burlywood;       
     padding: 5px;                
     transition: all 0.3s ease;     
