@@ -38,3 +38,11 @@ tr {
     background-color: #f0f0f0(211, 134, 197) ;}
 tr:nth-child(even) {
     background-color: #e2e2e2;}
+
+
+h6:hover {
+    text-shadow: 3px 3px 8px darkgray; 
+    border: 2px dashed burlywood;       
+    padding: 5px;                
+    transition: all 0.3s ease;     
+}
