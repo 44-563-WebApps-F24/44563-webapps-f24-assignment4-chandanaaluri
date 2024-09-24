@@ -1,0 +1,25 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black
+}
+
+.direction {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    color: black;
+    background-color: #f0f0f0;
+}
+
+.direction:hover {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.OD {
+    color: navy;
+}
+
+.NEO {
+    color: darkgreen;
+}
